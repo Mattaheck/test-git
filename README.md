@@ -1,3 +1,3 @@
 # test-git
 second repository text
-## testing git and cloning 
+## testing pulling and pushing
